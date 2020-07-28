@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.middle-container{
+}
+
+.buttom-container{
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+}
+
+.skill-row h3{
+    text-align: start;
+}
+
+.skill-row p{
+    text-align: start;
+    line-height: 2;
+}
+
+.computer-img{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+a{
+    color: #11999E;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    margin: 20px;
+    padding: 20px;
+}
+
+.bottom-container a{
+    color: #11999E;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.bottom-container a:hover{
+    color: white;
+}
+
+.bottom-container p{
+    color: white;
+}
+
+.top-container h2{
+    font-weight: normal;
+}
+
+.contact-button{
+    color: white;
+    background-color: #66bfbf;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+
+.contact-button a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
